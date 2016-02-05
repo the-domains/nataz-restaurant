@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nataz restaurant]]></title>
-        <description><![CDATA[nataz restaurant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Nataz Restaurant ]]></title>
+        <description><![CDATA[Nataz Restaurant ]]></description>
+        <link>https://thegrid.ai/nataz-restaurant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 22:20:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 22:36:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nataz-restaurant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MENU]]></title>
+            <description><![CDATA[<article><h1>MENU</h1><p>MENU </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ebee9fdedc72180747dc174cdc6348cc41f27f3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nataz-restaurant/menu/index.html</link>
+            <guid isPermaLink="false">ad8343ab-07aa-48ff-873a-7e417bf4fb91</guid>
+            <pubDate>Fri, 05 Feb 2016 22:36:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd31eccb-eaba-4e1e-9029-b4bf5e1d8a4e.JPG">]]></description>
-            <link>undefined2c7ab00f-81fc-45e9-8c7e-601470e6a12d/index.html</link>
+            <link>https://thegrid.ai/nataz-restaurant/2c7ab00f-81fc-45e9-8c7e-601470e6a12d/index.html</link>
             <guid isPermaLink="false">2c7ab00f-81fc-45e9-8c7e-601470e6a12d</guid>
             <pubDate>Fri, 05 Feb 2016 22:20:09 GMT</pubDate>
         </item>
