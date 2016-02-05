@@ -1,7 +1,7 @@
-name: nataz restaurant
+name: Nataz Restaurant
 favicon: null
-layout_spectrum: 0.9283321215771139
-typography_spectrum: 0.5772817044053227
+layout_spectrum: 0.889
+typography_spectrum: 0.81944
 title: 'Nataz Restaurant '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7228272627107799
-  lightness: 0.32566948351450264
-  saturation: 0.13903553877025843
-  rhythmicContrast: 0.45493720518425107
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
