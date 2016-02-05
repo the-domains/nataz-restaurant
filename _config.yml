@@ -2,6 +2,7 @@ name: nataz restaurant
 favicon: null
 layout_spectrum: 0.9283321215771139
 typography_spectrum: 0.5772817044053227
+title: 'Nataz Restaurant '
 cta:
   domain: null
   bucket: null
